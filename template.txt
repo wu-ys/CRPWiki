@@ -1,0 +1,123 @@
+{{Match
+|标题=XX赛YY
+|赛事名称=城市飞奔XX赛第Y季
+|赛事简称=XXYY
+|参赛人数=X组，XX位选手
+|比赛时间=XX年X月X日至X月X日，共X天
+|第一赛段=示例
+|第二赛段=示例
+|第三赛段=示例
+|途径地点=XX区、XX区、XX区
+|冠军=XX＆XX
+|亚军=XX＆XX
+|季军=XX＆XX
+|殿军=XX＆XX
+|比赛直播贴=http://tieba.baidu.com/p/XXXXXXXXX
+|prev=上次比赛页面
+|next=下次比赛页面
+}}
+
+=='''比赛路线'''==
+==='''第一赛段（XX区——XX区（多日赛也可为XX市——XX市））'''===
+:本次比赛的经费为XX元（本赛段经费为XX元）
+*XXX{{icon|起跑线}}
+::在起跑线任务中，各队需要(前往XXX)，XXX后，即可获取下一条线索。
+*XXX{{icon|绕道|XXX}}
+::在本次绕道中，各队需要在XXX和XXX中作出选择。
+:::在XXX中，各队需要(前往XXX)，XXX后，即可获取下一条线索。
+:::在XXX中，各队需要(前往XXX)，XXX后，即可获取下一条线索。
+*XXX{{icon|路障|XXX}}
+::在本次路障中，各队中的一位选手需要(前往XXX)，XXX后，即可获取下一条线索。
+*XXX{{icon|减速带}}
+::在本次减速带中，上赛段垫底的队伍需要(前往XXX)，XXX后，即可继续比赛。
+*XXX{{icon|联合|XXX}}
+::在本次联合中，各队需要（按照到达顺序）两两联合，(前往XXX)，XXX后，即可获取下一条线索。
+*XXX{{icon|对抗|XXX}}
+::联合大组在这里解散。
+::在本次对抗中，各队需要按到达顺序两两对决，胜者离开，败者和下队对决，最后落败的一队将停留X分钟（被淘汰）。
+*XXX{{icon|快进|XXX}}
+::在本次快进中，选择快进的队伍需要(前往XXX)，最先完成XXX的队伍将直接前往中继站。
+*XXX{{icon|单让路}}
+*XXX{{icon|双回转}}
+*XXX
+::在XXX，各队需要(前往XXX)，XXX后，即可获取下一条线索。
+::在完成XX后，各队需要根据XX，寻找下一个地点。
+*XXX{{icon|pitstop|X淘汰（终点）}}
+
+=='''最终结果'''==
+{|class=wikitable style="white-space:nowrap;"
+|-
+!rowspan=2|队伍
+!rowspan=2|关系
+!colspan=3|赛段名次
+!rowspan=2|路障数
+|-
+!1
+!2
+!3
+|-
+!A&B
+|
+|6th
+|1st
+|1st
+|A 1, B 1
+|-
+!C&D
+|
+|4th
+|2nd
+|2nd
+|C 1, D 1
+|-
+!E&F
+|
+|7th
+|3rd
+|3rd
+|E 1, F 1
+|-
+!G&H
+|
+|3rd
+|5th
+|4th
+|G 1, H 1
+|-
+!I&J
+|
+|5th
+|4th
+|<font color="red">5th</font>
+|I 1, J 1
+|-
+!K&L
+|
+|2nd
+|<font color="red">6th</font>
+|colspan="1" bgcolor="darkgray"|
+|K 1, L 1
+|-
+!M&N
+|
+|1st
+|<font color="red">7th</font>
+|colspan="1" bgcolor="darkgray"|
+|M 1, N 1
+|-
+!O&P
+|
+|<font color="red">8th</font>
+|colspan="2" bgcolor="darkgray"|
+|O 1, P 1
+|-
+!Q&R
+|
+|<font color="red">9th</font>
+|colspan="2" bgcolor="darkgray"|
+|Q 1, R 1
+|}
+
+{{ResultNote|1|2|3|4|5|6|7|8|9|10|11}}
+
+[[Category:XX赛]]
